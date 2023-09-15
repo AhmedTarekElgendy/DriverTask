@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "tEfsZ0coXSwx8S1N+BR+ks4/KcPN/oooYcskVOtoEr7ktyVMsdYJCWA5ZvUPE9u+zY6GMWhdUvB3lh+EEhiqUw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aelgendy2\\source\\repos\\Driver.Web\\Driver.Domain\\Driver.Domain.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://www.nuget.org/api/v2'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

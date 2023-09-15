@@ -1,0 +1,17 @@
+C:\Users\aelgendy2\source\repos\Driver.Web\Driver.DAL\obj\Debug\net6.0\Driver.DAL.csproj.AssemblyReference.cache
+C:\Users\aelgendy2\source\repos\Driver.Web\Driver.DAL\obj\Debug\net6.0\Driver.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aelgendy2\source\repos\Driver.Web\Driver.DAL\obj\Debug\net6.0\Driver.DAL.AssemblyInfoInputs.cache
+C:\Users\aelgendy2\source\repos\Driver.Web\Driver.DAL\obj\Debug\net6.0\Driver.DAL.AssemblyInfo.cs
+C:\Users\aelgendy2\source\repos\Driver.Web\Driver.DAL\obj\Debug\net6.0\Driver.DAL.csproj.CoreCompileInputs.cache
+C:\Users\aelgendy2\source\repos\Driver.Web\Driver.DAL\bin\Debug\net6.0\Driver.DAL.deps.json
+C:\Users\aelgendy2\source\repos\Driver.Web\Driver.DAL\bin\Debug\net6.0\Driver.DAL.dll
+C:\Users\aelgendy2\source\repos\Driver.Web\Driver.DAL\bin\Debug\net6.0\Driver.DAL.pdb
+C:\Users\aelgendy2\source\repos\Driver.Web\Driver.DAL\bin\Debug\net6.0\Driver.Domain.dll
+C:\Users\aelgendy2\source\repos\Driver.Web\Driver.DAL\bin\Debug\net6.0\Driver.Domain.pdb
+C:\Users\aelgendy2\source\repos\Driver.Web\Driver.DAL\obj\Debug\net6.0\Driver.DAL.csproj.CopyComplete
+C:\Users\aelgendy2\source\repos\Driver.Web\Driver.DAL\obj\Debug\net6.0\Driver.DAL.dll
+C:\Users\aelgendy2\source\repos\Driver.Web\Driver.DAL\obj\Debug\net6.0\refint\Driver.DAL.dll
+C:\Users\aelgendy2\source\repos\Driver.Web\Driver.DAL\obj\Debug\net6.0\Driver.DAL.pdb
+C:\Users\aelgendy2\source\repos\Driver.Web\Driver.DAL\obj\Debug\net6.0\ref\Driver.DAL.dll
+C:\Users\aelgendy2\source\repos\Driver.Web\Driver.DAL\bin\Debug\net6.0\Driver.DAL.runtimeconfig.json
+C:\Users\aelgendy2\source\repos\Driver.Web\Driver.DAL\obj\Debug\net6.0\Driver.DAL.genruntimeconfig.cache
